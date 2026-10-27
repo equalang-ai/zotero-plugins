@@ -1023,6 +1023,15 @@ export const plugins: PluginInfoBase[] = [
     discoverReleases: true,
   },
   {
+    repo: 'equalang/equalang-zotero-plugin',
+    releases: [],
+    tags: [
+      'ai',
+      'reader',
+    ],
+    discoverReleases: true,
+  },
+  {
     repo: 'ET06731/zotero-paper2slides',
     releases: [
       {
